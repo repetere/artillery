@@ -1,14 +1,10 @@
-<p align="center">
-<a href="https://artillery.io"><img src="https://artillery.io/img/flag.png" height="55" /></a>
-</p>
-<p align="center">
-<em><strong>Artillery</strong> is a modern, powerful, easy-to-use load-testing toolkit.</em> Artillery has a strong focus on developer happiness &amp; ease of use, and a batteries-included philosophy. Our goal is to help developers build <strong>faster</strong>, more <strong>resilient</strong> and more <strong>scalable</strong> applications.
+[![](https://artillery.io/img/flag.png)](https://artillery.io)
 
-</p>
+***Artillery*** *is a modern, powerful, easy-to-use load-testing toolkit.* Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build **faster**, more **resilient** and more **scalable** applications. Updated
 
 ## Features
 
-- **Mulitple protocols**:  Load-test HTTP, WebSocket and Socket.io applications
+- **Mulitple protocols**: Load-test HTTP, WebSocket and Socket.io applications
 - **Scenarios**: Support for complex *scenarios* to test multi-step interactions in your API or web app (great for ecommerce, transactional APIs, game servers etc)
 - **Performance metrics**: get detailed performance metrics (latency, requests per second, concurrency, throughput)
 - **Scriptable**: write custom logic in JS using any `npm` module
@@ -18,11 +14,11 @@
 
 ---
 
-- **Source**: [https://github.com/shoreditch-ops/artillery](https://github.com/shoreditch-ops/artillery)
-- **Issues**: [https://github.com/shoreditch-ops/artillery/issues](https://github.com/shoreditch-ops/artillery/issues)
-- **Chat**: [https://gitter.im/shoreditch-ops/artillery](https://gitter.im/shoreditch-ops/artillery)
-- **Docs**: [https://artillery.io/docs/](https://artillery.io/docs/)
-- **Website**: [https://artillery.io](https://artillery.io)
+- **Source**: <https://github.com/shoreditch-ops/artillery>
+- **Issues**: <https://github.com/shoreditch-ops/artillery/issues>
+- **Chat**: <https://gitter.im/shoreditch-ops/artillery>
+- **Docs**: <https://artillery.io/docs/>
+- **Website**: <https://artillery.io>
 - **Twitter**: [@ShoreditchOps](https://twitter.com/shoreditchops)
 
 ---
@@ -44,7 +40,7 @@ There's a lot of fun to be had with a good load generator like Artillery.
 
 # [Get Started With Artillery](https://artillery.io/docs/getting-started/) 🎯
 
-👉&nbsp;&nbsp;[Artillery Getting Started Guide](https://artillery.io/docs/getting-started/)
+👉  [Artillery Getting Started Guide](https://artillery.io/docs/getting-started/)
 
 # Using Artillery?
 
@@ -52,11 +48,10 @@ Are you using Artillery to ship faster, more resilient and more scalable systems
 
 # License
 
-**Artillery** is open-source software distributed under the terms of the
-[MPLv2](https://www.mozilla.org/en-US/MPL/2.0/) license.
+**Artillery** is open-source software distributed under the terms of the [MPLv2](https://www.mozilla.org/en-US/MPL/2.0/) license.
 
 # Swag
 
-<a href="https://shoreditch-ops.teemill.co.uk/product/artillery-io-hoodie-2976/"><img src="https://shoreditch-ops.teemill.co.uk/uploaded/public/58a0c5f5ce9cd5.85445284.png" alt="artillery.io hoodie" width="180" /></a>
+[![artillery.io hoodie](https://shoreditch-ops.teemill.co.uk/uploaded/public/58a0c5f5ce9cd5.85445284.png)](https://shoreditch-ops.teemill.co.uk/product/artillery-io-hoodie-2976/)
 
-Get some comfy, stylish, and eco-friendly Artillery.io swag from <a href="https://shoreditch-ops.teemill.co.uk/">our shop</a>. All profits go to [Surfers Against Sewage](https://www.sas.org.uk), an environmental charity. 🏄‍
+Get some comfy, stylish, and eco-friendly Artillery.io swag from [our shop](https://shoreditch-ops.teemill.co.uk/). All profits go to [Surfers Against Sewage](https://www.sas.org.uk), an environmental charity. 🏄‍
